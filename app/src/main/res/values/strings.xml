@@ -1,0 +1,19 @@
+<resources>
+    <string name="app_name">Pr_T3A</string>
+    <string name="mi_perfil_personal">Mi Perfil Personal</string>
+    <string name="nombre">Nombre</string>
+    <string name="apellido">Apellido</string>
+    <string name="correo_electr_nico">Correo Electrónico</string>
+    <string name="masculino">Masculino</string>
+    <string name="femenino">Femenino</string>
+    <string name="otro">Otro</string>
+    <string name="intereses_o_hobbies">Intereses o Hobbies:</string>
+    <string name="lectura">Lectura</string>
+    <string name="deporte">Deporte</string>
+    <string name="m_sica">Música</string>
+    <string name="arte">Arte</string>
+    <string name="nivel_de_satisfacci_n_5">Nivel de Satisfacción: 5</string>
+    <string name="suscribirse_al_bolet_n">Suscribirse al Boletín</string>
+    <string name="guardar">Guardar</string>
+    <string name="resumen_del_perfil">Resumen del Perfil</string>
+</resources>
